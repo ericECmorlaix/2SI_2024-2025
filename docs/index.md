@@ -538,9 +538,9 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
     - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
-    
+-->      
 ***
-## Le 24/09
+## Le 17/12
 
 === "CONTENU DE SÉANCE"
 
@@ -559,8 +559,7 @@
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
-
--->     
+  
 ***
 
 ## Le 10/12
